@@ -1,0 +1,28 @@
+DETEKSI MASKER PADA WAJAH - HAAR CASCADE CLASSIFIER PROGRAM
+TUGAS UAS COMVIS
+
+Oleh :
+
+Teknologi Informasi, Teknik Udayana
+
+PANDE NYOMAN DUTA MAHALELANA YOGA	1805551137
+Michael Piring				1805551162
+
+
+
+------------------------------ README -----------------------------------
+
+PANDUAN PEMAKAIAN PROGRAM DETEKSI WAJAH HAAR CASCADE :
+
+1. Install python
+2. Install library python yang diperlukan (PyQt5, Numpy, Open CV, urllib)
+3. Install ipwebcam pada perangkat HP
+4. Copy ip dari hp, ganti ip pada program pada variabel URL
+5. Arahkan CMD pada folder penyimpanan source code
+6. Run File 'main.py' melalui cmd
+7. Selamat menggunakan program
+
+------------------------------ INFO -----------------------------------
+
+1. File gambar dan video pada folder dapat digunakan sebagai data uji 
+klasifikasi
